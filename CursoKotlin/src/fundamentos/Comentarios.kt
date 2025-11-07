@@ -5,6 +5,7 @@ package fundamentos
  */
 fun main() {
     // comentario de uma linha
+
     /*
     comentario de multiplas linhas
      */
