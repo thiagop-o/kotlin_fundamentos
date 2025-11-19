@@ -1,7 +1,7 @@
 package fundamentos.controles
 
 fun main() {
-    var opcao: Int = 0
+    var opcao = 0
 
     while(opcao != -1){
         val line = readlnOrNull() ?: "0"
