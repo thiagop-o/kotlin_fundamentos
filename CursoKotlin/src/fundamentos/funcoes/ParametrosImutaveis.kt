@@ -1,7 +1,7 @@
 package fundamentos.funcoes
 
 fun incremento(num: Int){
-    num++
+    // num++
 }
 
 fun main() {
