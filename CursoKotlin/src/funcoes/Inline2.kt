@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 inline fun <T> executarComLog(nomeDaFuncao: String, funcao: () -> T): T{
     println("Entrando no metodo $nomeDaFuncao....")
